@@ -23,6 +23,6 @@
 
 - `对计算机专业的认识`（要求3）以及`学业规划`（要求4）在 [As far as I'm concerned](./html_/view/view_index.html#as-far-as-i-m-concerned) 部分
 
-## 通过rdc[生成的网页](https://intro-to-cs-hw.readthedocs.io/en/latest/?)
+## 通过rdc生成的[网页](https://intro-to-cs-hw.readthedocs.io/en/latest/?)
 
 暂未插入文件（[./html_/index.html](html_/index.html) 中所有超链接都正常可用）
