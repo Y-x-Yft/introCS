@@ -2,3 +2,5 @@ overall_html/
 build/
 html/
 html_/
+.gitattributes
+*.pdf
